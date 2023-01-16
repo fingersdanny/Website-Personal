@@ -64,6 +64,11 @@ h3 {
   background-position: 100% 100%;
 }
 
+.heading {
+  color:#3c2a21;
+  text-decoration: dotted;
+}
+
 .circular {
   border-radius: 100%;
 }
@@ -80,7 +85,3 @@ h3 {
 }
 
 /* ID SELECTORS */
-
-#heading {
-  color: blue;
-}
